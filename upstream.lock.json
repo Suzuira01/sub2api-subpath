@@ -1,9 +1,9 @@
 {
   "repository": "Wei-Shaw/sub2api",
-  "ref": "v0.2.21",
-  "revision": "10ba8f9b4dc2e6023d4a9879ab77b21841babd10",
-  "commit_date": "2026-11-11T01:37:34Z",
-  "source_sha256": "d0495813d60723be0fac2939208d30698bb7842e2a563c1da41e8912d4c27afc",
+  "ref": "v0.2.22",
+  "revision": "b0fa9f3e6eeab1968a53e1289b69daa4bb40ca2b",
+  "commit_date": "2026-11-17T02:13:23Z",
+  "source_sha256": "59592600f994cc3abbcaabc9b91803bf16c918ee95f5dfb41a2e67d747a719eb",
   "patch_revision": 2,
   "base_path": "runtime:APP_BASE_PATH",
   "pnpm_version": "9.15.9",
@@ -13,7 +13,7 @@
     "postgres:18-alpine": "postgres:18-alpine@sha256:83148c0bc09eac4d598b70a61e1404d0212b76c95c504bfd6c81a4c59ec91792",
     "redis:8-alpine": "redis:8-alpine@sha256:615b4cedaff0c1437a1548acae4222572df8c021eeb7382d64cb8b5e3a13ac7a",
     "nginx:stable-alpine": "nginx:stable-alpine@sha256:c59d1f8b1e0e42da75be973424cd72e23f7f8adfb54e982f4d1cd0216a5a5576",
-    "golang:1.27.3-alpine": "golang:1.27.3-alpine@sha256:b8c9b82affbbb82a020bbcf998dad2ba9516944ac7e883524642a481a9505e9c"
+    "golang:1.27.4-alpine": "golang:1.27.4-alpine@sha256:70bd7ddea8b6cbe5d6943cde279d6b67feb10cc924fb9100d1d8757c1575b280"
   },
   "default_base_path": "/",
   "smoke_base_paths": [
