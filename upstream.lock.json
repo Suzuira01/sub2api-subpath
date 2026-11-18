@@ -1,9 +1,9 @@
 {
   "repository": "Wei-Shaw/sub2api",
-  "ref": "v0.2.22",
-  "revision": "b0fa9f3e6eeab1968a53e1289b69daa4bb40ca2b",
-  "commit_date": "2026-11-17T02:13:23Z",
-  "source_sha256": "59592600f994cc3abbcaabc9b91803bf16c918ee95f5dfb41a2e67d747a719eb",
+  "ref": "v0.2.23",
+  "revision": "5af9afb588c4b014b3df9db7d4073af1f8ae01b6",
+  "commit_date": "2026-11-18T03:40:09Z",
+  "source_sha256": "15956e185e09691be6132f9d403a2b4b4964c72952d9b26145ecc3d9ca4a08e8",
   "patch_revision": 2,
   "base_path": "runtime:APP_BASE_PATH",
   "pnpm_version": "9.15.9",
